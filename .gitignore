@@ -1,0 +1,7 @@
+# Kit files and local test tooling are not part of the entry.
+kit/
+kit.tar.gz
+__pycache__/
+env-data-*/
+env-state-*/
+*.log
